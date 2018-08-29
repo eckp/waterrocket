@@ -1,0 +1,11 @@
+/* index css file */
+body {
+    background-color: lightgrey;
+    font-family: arial;
+}
+
+a {
+    background-color: lightblue;
+    text-decoration: none;
+    color: black;
+}

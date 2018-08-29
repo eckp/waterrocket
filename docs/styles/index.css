@@ -4,6 +4,9 @@ body {
     font-family: arial;
 }
 
+h1 {
+    text-transform: uppercase;
+}
 /*a {
     background-color: lightblue;
     text-decoration: none;
